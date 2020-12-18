@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NoPassing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2542317199
+    locked: 0
+  - name: object
+    uniqueID: 2512130725
+    locked: 0
+  - name: character
+    uniqueID: 719661457
+    locked: 0
+  - name: adove object
+    uniqueID: 2148097553
+    locked: 0
+  - name: UI
+    uniqueID: 1658029991
+    locked: 0
+  - name: Weather
+    uniqueID: 15967767
+    locked: 0

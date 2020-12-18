@@ -1,0 +1,2 @@
+C:\Users\임연웅\Documents\Unity\RPG MAKER GAME\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\임연웅\Documents\Unity\RPG MAKER GAME\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
